@@ -1,7 +1,7 @@
 {
     "name": "DependencyPlugin",
     "description": "Task dependencies: blocked/blocker badges on board, calendar, and task pages; cycle guard — built on core task links.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "author": "Carmelo Santana",
     "license": "MIT",
     "homepage": "https://github.com/carmelosantana/kanboard-dependency",

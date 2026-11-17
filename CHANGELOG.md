@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.1 — 2026-11-17
+
+### Fixed
+- Read the plugin version from plugin.json.
+
 ## [1.0.0] - 2026-07-05
 
 Initial release.
